@@ -4,4 +4,9 @@ class hello{
 
 	  System.out.println("welcome to git :)");
 	}
+
+	public String method(){
+
+          return "HelloThere".length().toString();
+	}
 }
