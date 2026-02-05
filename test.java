@@ -6,6 +6,10 @@ class test{
 	   return System.out.println();
    }
 
+	public String method2(){
+
+		return "test";
+	}
 
   public static void main(String args[]){
 
